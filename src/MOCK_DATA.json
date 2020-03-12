@@ -1,0 +1,20 @@
+[
+  {
+    "User_id": 1,
+    "User_Name": "Sheena",
+    "User_Last_Name": "Bernardt",
+    "User_Email": "sbernardt0@google.com.au",
+    "User_Gender": "Female",
+    "ip_address": "Accounting",
+    "age": 54
+  },
+  {
+    "User_id": 2,
+    "User_Name": "Jude",
+    "User_Last_Name": "Downing",
+    "User_Email": "jdowning1@techcrunch.com",
+    "User_Gender": "Male",
+    "ip_address": "Sales",
+    "age": 47
+  }
+]

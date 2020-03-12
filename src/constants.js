@@ -1,0 +1,13 @@
+export const set_Input_User = 'set_Input_User';
+export const set_Input_Pass = 'set_Input_Pass';
+export const login_Click = 'login_Click';
+export const new_User_Id = 'new_User_Id';
+export const new_User_Name = 'new_User_Name';
+export const new_User_Last_Name = 'new_User_Last_Name';
+export const new_User_Email = 'new_User_Email';
+export const new_User_Gender = 'new_User_Gender';
+export const add_New_Emp = 'add_New_Emp';
+export const create_emp_to_state = 'create_emp_to_state';
+export const edit_Emp = 'edit_Emp';
+export const edit_emp_to_state = 'edit_emp_to_state';
+export const delete_Emp = 'delete_Emp';
